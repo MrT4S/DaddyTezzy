@@ -25,5 +25,5 @@
 
 -----
 
-<a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else ur gonna wake up on ur knee nd me standing</a>
+<a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else u ain't cool</a>
     🥤
