@@ -19,6 +19,7 @@
 
 
 - But even if I post some stuff... u must enjoy the content 📸!
+- Educational purposes only btw !
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tezzy-lab.tezzy-lab) 
 ![Profile views](https://gpvc.arturio.dev/tezzy-lab?v=3)
