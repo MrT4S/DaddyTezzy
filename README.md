@@ -11,7 +11,7 @@
 
 <img src="https://images-ext-2.discordapp.net/external/_cGMPIWiy_GjuhJvnNFyCiww306onW-FpcBer1nLW4Y/https/media.discordapp.net/attachments/791039111452426241/791267442101452800/B2E8ABC7-B9E8-4929-A3D5-1B0819ECE97D.gif?width=320&height=179" alt="Avatar" style="border-radius: 75%;">
 
-- All my shit is private, who tf asked u to stare at my profile still. holy fuck bruh u fr needa get off this shit nd go look at some boobs u virgin fuck.
+- All my repos are private... why u still here 🧐..
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daddytezzy&theme=dark&layout=compact)
 
