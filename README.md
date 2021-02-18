@@ -15,14 +15,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daddytezzy&theme=dark&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daddytezzy&show_icons=true&theme=dark)
-
 
 - But even if I post some stuff... u must enjoy the content 📸!
 - Educational purposes only btw !
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tezzy-lab.tezzy-lab) 
 ![Profile views](https://gpvc.arturio.dev/tezzy-lab?v=3)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daddytezzy&show_icons=true&theme=dark)
 
 -----
 
