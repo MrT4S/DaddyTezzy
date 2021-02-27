@@ -15,7 +15,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daddytezzy&show_icons=true&theme=dark)
 
-![](https://visitor-badge.glitch.me/badge?page_id=tezzy-lab.tezzy-lab) 
+![](https://visitor-badge.glitch.me/badge?page_id=daddytezzy.daddytezzy) 
 ![Profile views](https://gpvc.arturio.dev/tezzy-lab?v=3)
 
 - Most my repos are private... why u still here 🧐..
