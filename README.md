@@ -2,7 +2,7 @@
 ------
 
 <p align="center">
-<a href="https://discord.com/users/721502304616054784">Discord</a>
+<a href="https://discord.com/users/">Discord</a>
     ╴
         <a href="https://github.com/DaddyTezzy">GitHub !</a>
     ╴
