@@ -1,6 +1,5 @@
 <p align="center">  
 Welcome, I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
-------
 
 <p align="center">
 <a href="https://discord.com/users/">Discord</a>
