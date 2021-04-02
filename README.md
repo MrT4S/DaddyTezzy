@@ -17,8 +17,10 @@
 
 > ![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
 
-- Most my repos are private... why u still here 🧐..
-- Educational purposes only btw !
+- Nothing really you can find here but some shitty public src(s)..
+- But I use this to track down some of my py or js stuff that I'm learning or developing. 
+- All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools.
+- Enjoy 🌙🧱🤍🌴
 
 <p align="center">  
 <a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else u ain't cool</a>
