@@ -23,5 +23,5 @@
 - Enjoy 🌙🧱🤍🌴
 
 <p align="center">  
-<a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else u ain't cool</a>
+<a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else u gonna be half gay for the rest of ur life</a>
     🥤
