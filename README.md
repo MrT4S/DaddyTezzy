@@ -13,7 +13,7 @@
     
 > ![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyTezzy&theme=dark&layout=compact)
 
-> ![GitHub Stats:](https://github-readme-stats.vercel.app/api?username=DaddyTezzy&show_icons=true&theme=dark)
+> ![GitHub Stats:](https://github-readme-stats.vercel.app/api?username=DaddyTezzy&show_icons=true&theme=tokyonight)
 
 > ![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
 
