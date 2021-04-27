@@ -17,10 +17,9 @@
 
 > ![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
 
-- Nothing really you can find here but some 💩 public src tools 🎊
-- But I use this to track down some of my py or js projects that I'm learning or developing. 🚧
-- All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools. 💅
-- Enjoy 🌙🧱🤍🌴
+- I use this to track down some of my py or js projects that I'm learning or developing. 🚧
+- All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools. 🎯
+- Enjoy 🌙
 
 <p align="center">  
 <a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else u gonna be half gay for the rest of ur life</a>
