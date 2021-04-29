@@ -2,7 +2,7 @@
 ## I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
 ### Make sure to f// my:
 
-<a href="https://discord.com/users/">Discord !</a>
+<a href="https://discord.com/channels/@me/721568162084290680">Discord !</a>
     ╴
         <a href="https://github.com/DaddyTezzy">GitHub !</a>
     ╴
