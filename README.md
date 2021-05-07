@@ -2,14 +2,8 @@
 ## I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
 ### Make sure to f// my:
 
-<a href="https://discord.com/channels/@me/721568162084290680">Discord !</a>
-    ╴
-        <a href="https://github.com/DaddyTezzy">GitHub !</a>
-    ╴
-        <a href="https://twitch.tv/daddy_tezzy">Twitch !</a>
-</p>
-
-<img src="https://images-ext-2.discordapp.net/external/_cGMPIWiy_GjuhJvnNFyCiww306onW-FpcBer1nLW4Y/https/media.discordapp.net/attachments/791039111452426241/791267442101452800/B2E8ABC7-B9E8-4929-A3D5-1B0819ECE97D.gif?width=320&height=179" alt="Avatar" style="border-radius: 75%;">
+<p align="center">
+<img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
     
 > ![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyTezzy&theme=tokyonight&layout=compact)
 
@@ -21,6 +15,10 @@
 - All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools. 🎯
 - Enjoy 🌙
 
-<p align="center">  
-<a href="https://www.twitch.tv/daddy_tezzy">F// my twitch or else ur half gay</a>
-    🥤
+<a href="https://discord.com/channels/@me/721568162084290680">Discord !</a>
+    ╴
+        <a href="https://github.com/DaddyTezzy">GitHub !</a>
+    ╴
+        <a href="https://twitch.tv/daddy_tezzy">Twitch !</a>
+</p>
+ 🥤
