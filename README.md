@@ -1,6 +1,6 @@
 # Welcome,
 ## I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
-### Make sure to f// my:
+### Discord:
 
 <p align="center">
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
