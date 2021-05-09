@@ -4,12 +4,12 @@
 
 <p align="center">
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
-    
-> ![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyTezzy&theme=tokyonight&layout=compact)
-
-> ![GitHub Stats:](https://github-readme-stats.vercel.app/api?username=DaddyTezzy&show_icons=true&theme=tokyonight)
-
-> ![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
+<p align="center">
+![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyTezzy&theme=tokyonight&layout=compact)
+<p align="center">
+![GitHub Stats:](https://github-readme-stats.vercel.app/api?username=DaddyTezzy&show_icons=true&theme=tokyonight)
+<p align="center">
+![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
 
 - I use this to track down some of my py or js projects that I'm learning or developing. 🚧
 - All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools. 🎯
