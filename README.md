@@ -4,10 +4,11 @@
 
 <p align="center">
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
-<p align="center">
+
 ![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyTezzy&theme=tokyonight&layout=compact)
-<p align="center">
+
 ![GitHub Stats:](https://github-readme-stats.vercel.app/api?username=DaddyTezzy&show_icons=true&theme=tokyonight)
+
 <p align="center">
 ![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
 
