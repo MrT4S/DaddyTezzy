@@ -1,6 +1,6 @@
 # Welcome,
 ## I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
-> Am a pro decent ~~skid~~ programmer
+> Am a decent py & js ~~skid~~ programmer
 ### Discord:
 
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
