@@ -1,6 +1,7 @@
 # Welcome,
 ## I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
 > Am a decent [dpy](https://discordpy.readthedocs.io/en/stable/) & [djs](https://discord.js.org/#/) ~~skid~~ programmer
+> Currently ~~skidding~~ trying out golang & c++
 ### Discord:
 
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
