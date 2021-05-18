@@ -1,5 +1,5 @@
 # Welcome,
-## I'm Tezzy and just Tezzy and only Tezzy and always Tezzy! 📸
+## I'm Tezzy, just Tezzy, only Tezzy, and always Tezzy! 📸
 > Am a decent [dpy](https://discordpy.readthedocs.io/en/stable/) & [djs](https://discord.js.org/#/) ~~skid~~ programmer.
 ### Discord:
 
