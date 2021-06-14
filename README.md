@@ -5,7 +5,7 @@
 
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
 
-![Profile views:](https://gpvc.arturio.dev/tezzy-lab?v=3)
+![Profile views:](https://gpvc.arturio.dev/DaddyTezzy?v=3)
 
 ![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyTezzy&theme=tokyonight&layout=compact)
 
