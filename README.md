@@ -5,9 +5,9 @@
 
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
 
-- I use this to track down some of my py or js projects that I'm learning or developing. 🚧
-- All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools. 🎯
-- Enjoy 🌙
+- All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools.
+- I use this to track down some of my py or js projects that I'm learning or developing.
+- Make sure to star my repositories if you use them!
 
 <p align="center">
 <a href="https://discord.com/channels/@me/721568162084290680">Discord !</a>
