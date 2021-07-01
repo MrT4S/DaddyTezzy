@@ -5,6 +5,8 @@
 
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
 
+![Dreams](https://discordapp.com/api/guilds/706982912284950591/widget.png?style=banner2)
+
 - All shown in this account is completely for educational purpose and I do not take any responsibility for any consequences you may face after using my tools.
 - I use this to track down some of my py or js projects that I'm learning or developing.
 - Make sure to star my repositories if you use them!
