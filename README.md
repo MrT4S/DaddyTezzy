@@ -1,6 +1,9 @@
 # Welcome,
 ## I'm Tezzy, just Tezzy, only Tezzy, and always Tezzy! 📸
 > Am a decent [dpy](https://discordpy.readthedocs.io/en/stable/) & [djs](https://discord.js.org/#/) ~~skid~~ programmer.
+
+<img src="https://komarev.com/ghpvc/?username=DaddyTezzy&style=flat-square">
+
 ### Discord:
 
 <img src ="https://discord.c99.nl/widget/theme-2/721568162084290680.png">
