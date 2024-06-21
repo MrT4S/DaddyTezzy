@@ -1,5 +1,5 @@
 # Welcome,
-## I'm Tezzy, just Tezzy, only Tezzy, and always Tezzy! 📸
+## Say cheese! 📸
 > Am a decent [dpy](https://discordpy.readthedocs.io/en/stable/) & [djs](https://discord.js.org/#/) ~~skid~~ programmer.
 
 <img src="https://komarev.com/ghpvc/?username=DaddyTezzy&style=flat-square">
